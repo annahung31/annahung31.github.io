@@ -3,6 +3,17 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+.container {
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+}
 div.a {
   text-align: center;
 }
@@ -16,6 +27,7 @@ div.c {
 img {
   max-width: 100%;
   height: auto;
+  opacity: 0.3;
 }
 
 </style>
@@ -35,6 +47,13 @@ img {
 
 <img src="./img/anna.jpg" alt="Anna">
 
+<h2>Image Text</h2>
+<p>Center text in image:</p>
+
+<div class="container">
+  <img src="img_5terre_wide.jpg" alt="Cinque Terre" width="1000" height="300">
+  <div class="center">Hsioa-Tzu Hung (Anna Hung)</div>
+</div>
 
 <div class="a">
     <h2 style="color:Tomato;">Education</h2>
