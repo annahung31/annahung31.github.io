@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-She is currently a master student at NTU, Taiwan. Her main research interest is deep learning on multimedia, especially on audios and images.
+I am currently a master student at NTU, Taiwan. My main research interest is deep learning on multimedia, especially on audios and images.
 
 [DOWNLOAD CV](https://annahung31.github.io/files/Anna_resume_2020.pdf)
 
