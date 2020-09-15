@@ -10,6 +10,7 @@ redirect_from:
 
 She is currently a master student at NTU, Taiwan. Her main research interest is deep learning on multimedia, especially on audios and images.
 
+[Download my cv](https://remyhuang.github.io/files/Anna_resume_2020.pdf)
 
 
 Education
@@ -20,7 +21,7 @@ National Taiwan University, Taiwan, present
 * B.S. in Department of Physics, 
 National Tsing Hua University, Taiwan, 2014
 
-[Download my cv](https://remyhuang.github.io/files/Anna_resume_2020.pdf)
+
 
 Work experience
 ======
