@@ -10,5 +10,5 @@ citation: ''
 ---
 Improving Automatic Jazz Melody Generation by Transfer Learning Techniques
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://annahung31.github.io/files/paper1.pdf)
 [Listen to DEMO here](https://annahung31.github.io/Publication-Demos/publications/jazz_melody_generation/)
