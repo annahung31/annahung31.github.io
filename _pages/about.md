@@ -20,6 +20,7 @@ National Taiwan University, Taiwan, present
 * B.S. in Department of Physics, 
 National Tsing Hua University, Taiwan, 2014
 
+[Download my cv](https://remyhuang.github.io/files/Anna_resume_2020.pdf)
 
 Work experience
 ======
@@ -41,4 +42,3 @@ Physics teacher
 National Chu-Pei Senior High School
 
 
-[Download my cv](https://remyhuang.github.io/files/Anna_resume_2020.pdf)
