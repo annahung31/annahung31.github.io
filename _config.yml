@@ -80,8 +80,8 @@ yandex_site_verification :
 
 # Site Author
 author:
-  name             : "Hsiao-Tzu Hung"
-  avatar           : "anna.png"
+  name             : #"Hsiao-Tzu Hung"
+  avatar           : "anna.jpg"
   bio              : "MS CSIE student @National Taiwan University"
   location         : "Taiwan"
   employer         :
