@@ -16,9 +16,9 @@ She is currently a master student at NTU, Taiwan. Her main research interest is 
 Education
 ======
 
-* M.S. in Department of CSIE, 
+* M.S. in Department of CSIE,  
 National Taiwan University, Taiwan, present
-* B.S. in Department of Physics, 
+* B.S. in Department of Physics,  
 National Tsing Hua University, Taiwan, 2014
 
 
@@ -26,20 +26,20 @@ National Tsing Hua University, Taiwan, 2014
 Work experience
 ======
 
-2019 - 2020
-Full-time Machine Learning Research Internship
-Taiwan AI LAbs, Taiwan
+2019 - 2020  
+Full-time Machine Learning Research Internship  
+Taiwan AI LAbs, Taiwan  
 
-2018 - 2019
-Research Assistant
-Institute of Information Science, Academia Sinica, Taiwan
+2018 - 2019  
+Research Assistant  
+Institute of Information Science, Academia Sinica, Taiwan  
 
-2017 - 2018
-Physics teacher
-National Lan-Yang Girls’ Senior High School
+2017 - 2018  
+Physics teacher  
+National Lan-Yang Girls’ Senior High School  
 
-2014 - 2016
-Physics teacher
-National Chu-Pei Senior High School
+2014 - 2016  
+Physics teacher  
+National Chu-Pei Senior High School  
 
 
