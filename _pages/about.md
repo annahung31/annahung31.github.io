@@ -13,7 +13,9 @@ She is currently a master student at NTU, Taiwan. Her main research interest is 
 [Download my cv](https://remyhuang.github.io/files/Anna_resume_2020.pdf)
 
 
-Education
+```diff
+! Education
+```
 ======
 
 * M.S. in Department of CSIE,  
