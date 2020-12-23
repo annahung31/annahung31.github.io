@@ -30,7 +30,7 @@ Work experience
 Full-time Machine Learning Research Internship  
 Taiwan AI LAbs, Taiwan  
 
-2018 - 2019  
+2018 - current  
 Research Assistant  
 Institute of Information Science, Academia Sinica, Taiwan  
 
