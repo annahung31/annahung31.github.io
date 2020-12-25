@@ -25,9 +25,9 @@ National Tsing Hua University, Taiwan, 2014
 
 Work experience
 ======
-2020 - current
-Research Assistant  
-Institute of Information Science, Academia Sinica, Taiwan
+2020 - current  
+Research Assistant    
+Institute of Information Science, Academia Sinica, Taiwan  
 Dr. Yi-Hsuan Yang: [Music and AI Lab](https://musicai.citi.sinica.edu.tw/)
 
 
