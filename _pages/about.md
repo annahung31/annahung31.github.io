@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a master student at National Taiwan University, Taiwan. My main research interest is deep learning on multimedia, especially on audios and images. Under the supervision of Dr. Yi-Hsuan Yang (Academia Sinica), I'm currently doing an interesting research on automaic music generation.
 
-[DOWNLOAD CV](https://annahung31.github.io/files/Anna_resume_2020.pdf)
+[RESUME](https://annahung31.github.io/files/Anna_resume_2020.pdf)
 
 
 Education
