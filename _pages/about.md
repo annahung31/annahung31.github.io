@@ -26,27 +26,27 @@ National Tsing Hua University, Taiwan, 2014
 Work experience
 ======
 2020 - current  
-Research Assistant    
+*Research Assistant*    
 Institute of Information Science, Academia Sinica, Taiwan  
-Dr. Yi-Hsuan Yang: [Music and AI Lab](https://musicai.citi.sinica.edu.tw/)
+supervised by Dr. Yi-Hsuan Yang: [Music and AI Lab](https://musicai.citi.sinica.edu.tw/)
 
 
 
 2019 - 2020  
-Full-time Machine Learning Research Internship  
+*Full-time Machine Learning Research Internship*  
 Taiwan AI LAbs, Taiwan  
 
 2018 - 2019  
-Research Assistant  
+*Research Assistant*  
 Institute of Information Science, Academia Sinica, Taiwan  
-Dr. Hsin-Min Wang: Speech,Language and Music Processing Laboratory  
+supervised by Dr. Hsin-Min Wang: Speech,Language and Music Processing Laboratory  
 
 2017 - 2018  
-Physics teacher  
+*Physics teacher*  
 National Lan-Yang Girls’ Senior High School  
 
 2014 - 2016  
-Physics teacher  
+*Physics teacher*  
 National Chu-Pei Senior High School  
 
 
