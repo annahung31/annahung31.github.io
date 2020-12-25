@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student at NTU, Taiwan. My main research interest is deep learning on multimedia, especially on audios and images.
+I am currently a master student at National Taiwan University, Taiwan. My main research interest is deep learning on multimedia, especially on audios and images. Under the supervision of Dr. Yi-Hsuan Yang (Academia Sinica), I'm currently doing an interesting research on automaic music generation.
 
 [DOWNLOAD CV](https://annahung31.github.io/files/Anna_resume_2020.pdf)
 
@@ -25,14 +25,21 @@ National Tsing Hua University, Taiwan, 2014
 
 Work experience
 ======
+2020 - current
+Research Assistant  
+Institute of Information Science, Academia Sinica, Taiwan
+Dr. Yi-Hsuan Yang: [Music and AI Lab](https://musicai.citi.sinica.edu.tw/)
+
+
 
 2019 - 2020  
 Full-time Machine Learning Research Internship  
 Taiwan AI LAbs, Taiwan  
 
-2018 - current  
+2018 - 2019  
 Research Assistant  
 Institute of Information Science, Academia Sinica, Taiwan  
+Dr. Hsin-Min Wang: Speech,Language and Music Processing Laboratory  
 
 2017 - 2018  
 Physics teacher  
