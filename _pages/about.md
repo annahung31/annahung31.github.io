@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student at National Taiwan University, Taiwan. My main research interest is deep learning on multimedia, especially on audios and images. Under the supervision of Dr. Yi-Hsuan Yang (Academia Sinica), I'm currently doing an interesting research on automaic music generation.
+I am a master student at National Taiwan University, Taiwan. My main research interest is deep learning on multimedia, especially on audios and images. Under the supervision of Dr. Yi-Hsuan Yang (Academia Sinica), I'm now doing an interesting research on automaic music generation based on transformer-based model. Currently I'm seeking for 2021 summer internship opportunity, I'm interested in ML/Data/software engineering internship position. Please feel free to reach me if you have anything to share :) 
 
 [RESUME](https://annahung31.github.io/files/Anna_resume_2021.pdf)
 
