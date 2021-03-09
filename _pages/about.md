@@ -53,29 +53,28 @@ National Chu-Pei Senior High School
 
 Publications
 ======
-*Improving automatic Jazz melody generation by transfer learning techniques*  
+<font color="#00dd00">Improving automatic Jazz melody generation by transfer learning techniques</font><br />
 (I'm the first author)  
 Published on APSIPA 2019.  
-[Paper](https://arxiv.org/abs/1908.09484), [Demo](https://annahung31.github.io/Publication-Demos/publications/jazz_melody_generation/), [Code](https://github.com/annahung31/jazz_melody_generation)  
-
+[Paper](https://arxiv.org/abs/1908.09484), [Demo](https://annahung31.github.io/Publication-Demos/publications/jazz_melody_generation/), [Code](https://github.com/annahung31/jazz_melody_generation)    
 In this paper, I use two transfer learning methods to improve the performance of a VAE-based music generation model given the limited training data. Both the objective and subjective test shows that the two methods indeed improve the performace.
 
 
-*MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach*  
+
+<font color="#00dd00">MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</font><br />
 (I'm the co-author)  
 Published on MediaEval’19.  
-[Paper](https://evazangerle.at/publication/mediaeval-19-tai/mediaeval-19-tai.pdf), [Code](https://github.com/annahung31/moodtheme-tagging)
-
+[Paper](https://evazangerle.at/publication/mediaeval-19-tai/mediaeval-19-tai.pdf), [Code](https://github.com/annahung31/moodtheme-tagging)  
 In this work, we try to use the VQ-VAE as feature extractor and two kinds of classifier to automatically classify the genre, theme, or mood of a given audio song. The dataset given by the host is quiet noisy and so we decide not to move forward on this task, but still it's an interesting experience.
 
 
 Mini Projects
 ======
-*Implementing MidiNet by PyTorch*  
+<font color="#00dd00">Implementing MidiNet by PyTorch</font><br />
 [Code](https://github.com/annahung31/MidiNet-by-pytorch)  
 In the beginning of my ML journey, I start by translating MidiNet from TensorFlow to PyTorch. MidiNet is an well-known GAN-based framework in music automatic generaion field. This project currently has 40 stars on GitHub. 
 
-*covid19-prediction*  
+<font color="#00dd00">covid19-prediction</font><br />  
 [Code](https://github.com/annahung31/covid19-prediction)  
 This is a smal project I've done when I'm taking the course "Artificial intelligence" @ NTU. I use X-ray as input to predict covid19. In this work, I try to use focal loss to deal with data imbalance.
 
