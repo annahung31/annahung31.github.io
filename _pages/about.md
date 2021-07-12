@@ -101,8 +101,8 @@ Outside of work, I'm a scuba diving lover, a book addict, and a Spotify loyal us
 <table>
     <tr>
       <td><img src="https://raw.githubusercontent.com/annahung31/annahung31.github.io/academic/images/diving.JPG" width=200x></td>
-      <td>My current favorite playlist:  
-        <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX889U0CL85jj?theme=0" width="50%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <td>My current favorite playlist: <br>
+        <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX889U0CL85jj?theme=0" width="50%" height="200" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </td>
     </tr>
 </table>
