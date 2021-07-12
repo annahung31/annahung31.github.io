@@ -97,9 +97,12 @@ This is a smal project I've done when I'm taking the course "Artificial intellig
 More about me
 ======  
 Outside of work, I'm a scuba diving lover, a book addict, and a Spotify loyal user!
+
+
 <style>
-table, th, td {
-  border: none;
+
+img {
+  border-radius: 5%;
 }
 .resp-iframe {
   position: relative;
@@ -111,13 +114,10 @@ table, th, td {
 }
 </style>
 
-<table >
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/annahung31/annahung31.github.io/academic/images/diving.JPG" width=260 top=10 border-radius=10px></td>
-      <td>My current favorite playlist: <br>
-        <iframe class="resp-iframe" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX889U0CL85jj?theme=0" width="60%" height="200" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-      </td>
-    </tr>
-</table>
+Diving in sea of Kenting, Taiwan(A must-visit place!):  
+<img src="https://raw.githubusercontent.com/annahung31/annahung31.github.io/academic/images/diving.JPG" width=260 top=10 border-radius=10px>
+<br>
+My current favorite playlist:  
+ <iframe class="resp-iframe" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX889U0CL85jj?theme=0" width="60%" height="200" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
