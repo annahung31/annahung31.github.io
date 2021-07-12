@@ -97,8 +97,13 @@ This is a smal project I've done when I'm taking the course "Artificial intellig
 More about me
 ======  
 Outside of work, I'm a scuba diving lover, a book addict, and a Spotify loyal user!
+<style>
+table, th, td {
+  border: none;
+}
+</style>
 
-<table>
+<table >
     <tr>
       <td><img src="https://raw.githubusercontent.com/annahung31/annahung31.github.io/academic/images/diving.JPG" width=200x></td>
       <td>My current favorite playlist: <br>
