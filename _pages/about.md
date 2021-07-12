@@ -113,9 +113,9 @@ table, th, td {
 
 <table >
     <tr>
-      <td><img style="border-radius: 10px" src="https://raw.githubusercontent.com/annahung31/annahung31.github.io/academic/images/diving.JPG" width=60% top=10></td>
+      <td><img src="https://raw.githubusercontent.com/annahung31/annahung31.github.io/academic/images/diving.JPG" width=260 top=10 border-radius=10px></td>
       <td>My current favorite playlist: <br>
-        <iframe class="resp-iframe" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX889U0CL85jj?theme=0" width="50%" height="200" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        <iframe class="resp-iframe" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX889U0CL85jj?theme=0" width="60%" height="200" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </td>
     </tr>
 </table>
