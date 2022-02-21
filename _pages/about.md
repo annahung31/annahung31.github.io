@@ -26,7 +26,7 @@ National Tsing Hua University, Taiwan, 2014
 Work experiences
 ======
 
-2021 June - current  
+2021 June - Aug  
 *Acoustic Engineering Intern*  
 Amazon Ring, Taiwan
 
