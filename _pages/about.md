@@ -10,16 +10,16 @@ redirect_from:
 
 I am a master student at National Taiwan University, Taiwan. My main research interest is deep learning on multimedia, especially on audios and images. Under the supervision of Dr. Yi-Hsuan Yang (Academia Sinica), I'm now doing an interesting research on automaic music generation based on transformer-based model. Currently I'm seeking for ML/AI/Data/software engineering Full-time position. Please reach me if you have anything to share :) 
 
-[RESUME](https://annahung31.github.io/files/Anna_resume_2021_v3.pdf)
+[RESUME](https://annahung31.github.io/files/Anna_resume_2022.pdf)
 
 
 Education
 ======
 
 * M.S. in Department of CSIE,  
-National Taiwan University, Taiwan, present
+National Taiwan University, Taiwan, Feb 2022
 * B.S. in Department of Physics,  
-National Tsing Hua University, Taiwan, 2014
+National Tsing Hua University, Taiwan, June 2014
 
 
 
@@ -31,7 +31,7 @@ Work experiences
 Amazon Ring, Taiwan
 
 
-2020 - current  
+2020 Feb. - 2022 Feb.  
 *Research Assistant*  
 Institute of Information Science, Academia Sinica, Taiwan  
 supervised by Dr. Yi-Hsuan Yang: [Music and AI Lab](https://musicai.citi.sinica.edu.tw/)
