@@ -91,33 +91,10 @@ In the beginning of my ML journey, I start by translating MidiNet from TensorFlo
 This is a small project I've done when I'm taking the course "Artificial intelligence" @ NTU. I use X-ray as input to predict covid19. In this work, I try to use focal loss to deal with data imbalance.
 
 
+<font color="#006600">Context-Aware Music Recommendation Systems for Driving - a MIR Approach</font>
+[Report](https://annahung31.github.io/files/course/CAR_report.pdf)
+This is the final project I've done for the course "Introduction to Intelligent Vehicles" @ NTU. This project got the "Top 20% (~20 ppl) reports" award from the Instrucor!  
+A context-aware music recommendation system (CARS) means to recommend music based on the environmental factors such as the driver's mood, the weather condition, or the traffic conditions. On the other hand, in some research, they use music to regularize the driver's emotions, making driving safer. Especially, the tempo of the music is a common feature to do that. So I try to use the tempo information of the music as an additional feature for the CARS, and the result shows that the tempo information can improve the accuracy of the CARS.
 
-
-More about me
-======  
-Outside of work, I'm a scuba diving lover, a book addict, and a Spotify loyal user!
-
-
-<style>
-
-img {
-  border-radius: 5%;
-}
-.resp-iframe {
-  position: relative;
-  top: 10;
-  left: 0;
-  width: 60%;
-  height: 142;
-  border-radius: 10px;
-}
-</style>
-
-Diving in sea of Kenting, Taiwan (A must-visit place!):  
-<br>
-<img src="https://raw.githubusercontent.com/annahung31/annahung31.github.io/academic/images/diving.JPG" width=290 top=10 border-radius=10px>
-<br><br>
-My current favorite playlist:  
- <iframe class="resp-iframe" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX889U0CL85jj?theme=0" width="30%" height="200" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
