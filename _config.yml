@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hsiao-Tzu (Anna) Hung ◐ 洪筱慈"
 title_separator          : "-"
 name                     : &name "Hsiao-Tzu Hung"
-description              : &description "MS CSIE student @NTU, Taiwan"
+description              : &description "AI developer @MediaTek, Taiwan"
 url                      : https://annahung31.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "annahung31/annahung31.github.io"
@@ -82,7 +82,7 @@ yandex_site_verification :
 author:
   name             : #"Hsiao-Tzu Hung"
   avatar           : "anna.jpg"
-  bio              : "MS CSIE student @National Taiwan University"
+  bio              : "AI developer @MediaTek, Taiwan"
   location         : "Taiwan"
   employer         :
   # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
