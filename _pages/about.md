@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I'm a AI developer in MediaTek, Taiwan. 
+Currently I'm an AI developer in MediaTek, Taiwan. 
 
 [RESUME(last update: 2022/05/19)](https://annahung31.github.io/files/Anna_resume_20220519.pdf)
 
