@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently I'm an AI developer in MediaTek, Taiwan. 
+Currently I'm an Machine Learning Developer in MediaTek, Taiwan. 
 
-[RESUME(last update: 2022/05/19)](https://annahung31.github.io/files/Anna_resume_20220519.pdf)
+[RESUME(last update: 2023/02/06)](https://annahung31.github.io/files/Anna_resume_20230206.pdf)
 
 
 Education
@@ -25,6 +25,10 @@ National Tsing Hua University, Taiwan, June 2014
 
 Work experiences
 ======
+2022 Aug. - current
+*Machine Learning Developer*
+MediaTek, Taiwan
+
 
 2021 June - 2021 Aug  
 *Acoustic Engineering Intern*  
