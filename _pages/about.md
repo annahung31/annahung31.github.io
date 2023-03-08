@@ -10,7 +10,7 @@ redirect_from:
 
 Currently I'm an Machine Learning Developer in MediaTek, Taiwan. 
 
-[RESUME(last update: 2023/02/20)](https://annahung31.github.io/files/Anna_resume_20230220.pdf)
+[RESUME(last update: 2023/03/08)](https://annahung31.github.io/files/Anna_resume_20230308.pdf)
 
 
 Education
