@@ -25,8 +25,8 @@ National Tsing Hua University, Taiwan, June 2014
 
 Work experiences
 ======
-2022 Aug. - current
-*Machine Learning Developer*
+2022 Aug. - current  
+*Machine Learning Developer*  
 MediaTek, Taiwan
 
 
