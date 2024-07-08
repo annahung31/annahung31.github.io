@@ -11,7 +11,7 @@ redirect_from:
 Currently I'm having a career break. Before that, I was an AI/ML Engineer at MediaTek, Taiwan.   
 
 I am ...   
-- An AI/ML Engineer who hopes AI can bring positive effects to this world.  
+- An AI/ML Engineer who enjoys bringing AI to reality and making it reliable and helpful.  
 - A ceramics enthusiasts who loves the feeling of creating things by hand. (My ceramics brand: [Lean Out Pottery Studio](https://www.instagram.com/lean.out.pottery?igsh=MXN2a3hiY3Fxc3Y5Zg%3D%3D&utm_source=qr)    
 - An avid reader, espically enjoying contemporary, literary fiction, and other fiction genres. I run an Instagram page to document what I've read: [書癡安娜的不完美生活](https://www.instagram.com/anna_reading_book?igsh=MXZpZnJhZnVwbjdnYQ%3D%3D&utm_source=qr)
 - a Korean learner. 저는 한국어를 배우고 있어요. 저는 K-드라마를 아주 춯아해요. 
