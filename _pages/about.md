@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Currently I'm an Machine Learning Developer in MediaTek, Taiwan. 
+Currently I'm having a career break. Before that, I was an AI/ML Engineer at MediaTek, Taiwan.   
+
+I am ...   
+- An AI/ML Engineer who hopes AI can bring positive effects to this world.  
+- A ceramics enthusiasts who loves the feeling of creating things by hand. (My ceramics brand: [Lean Out Pottery Studio](https://www.instagram.com/lean.out.pottery?igsh=MXN2a3hiY3Fxc3Y5Zg%3D%3D&utm_source=qr)    
+- An avid reader, espically enjoying contemporary, literary fiction, and other fiction genres. I run an Instagram page to document what I've read: [書癡安娜的不完美生活](https://www.instagram.com/anna_reading_book?igsh=MXZpZnJhZnVwbjdnYQ%3D%3D&utm_source=qr)
+- a Korean learner. 저는 한국어를 배우고 있어요. 저는 K-드라마를 아주 춯아해요. 
+- a socialized INFJ. I am emotionally rich but know how to coexist with my emotions. I recharge through solitude, yet I am also good at interacting with others.
 
 [RESUME(last update: 2024/01/17)](https://annahung31.github.io/files/Anna_resume_202401.pdf)
 
@@ -16,7 +23,7 @@ Currently I'm an Machine Learning Developer in MediaTek, Taiwan.
 Education
 ======
 
-* M.S. in Department of CSIE,  
+* Comuputer Science M.S. in Department of CSIE,  
 National Taiwan University, Taiwan, Feb 2022
 * B.S. in Department of Physics,  
 National Tsing Hua University, Taiwan, June 2014
@@ -25,8 +32,8 @@ National Tsing Hua University, Taiwan, June 2014
 
 Work experiences
 ======
-2022 Aug. - current  
-*Machine Learning Developer*  
+2022 Aug. - 2024, May  
+*ML/AI Engineer*  
 MediaTek, Taiwan
 
 
