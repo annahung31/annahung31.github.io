@@ -17,7 +17,7 @@ I am ...
 - A Korean learner. 저는 한국어를 배우고 있어요. 저는 K-드라마를 아주 춯아해요. 
 - A socialized INFJ. I am emotionally rich but know how to coexist with my emotions. I recharge through solitude, yet I am also good at interacting with others.
 
-[RESUME(last update: 2024/01/17)](https://annahung31.github.io/files/Anna_resume_202401.pdf)
+[RESUME(last update: 2024/07/08)](https://annahung31.github.io/files/Anna_resume_20240708.pdf)
 
 
 Education
