@@ -87,7 +87,7 @@ In this paper, I use two transfer learning methods to improve the performance of
 <font color="#006600">MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</font>  
 **Hsiao-Tzu Hung**, Yu-Hua Chen, Maximilian Mayer,Michael V¨otter, Eva Zangerle, Yi-Hsuan Yang  
 Published on <font color="#008080">MediaEval 2019</font> .  
-[Paper](https://evazangerle.at/publication/mediaeval-19-tai/mediaeval-19-tai.pdf), [Code](https://github.com/annahung31/moodtheme-tagging)  
+[Paper](https://www.semanticscholar.org/paper/MediaEval-2019-Emotion-and-Theme-Recognition-task%3A-Hung-Chen/ac89bce44518c8b3b883393585043beb52ea69c1), [Code](https://github.com/annahung31/moodtheme-tagging)  
 In this work, we try to use the VQ-VAE as feature extractor and two kinds of classifier to automatically classify the genre, theme, or mood of a given audio song. The dataset given by the host is quiet noisy and so we decide not to move forward on this task, but still it's an interesting experience.
 
 
